@@ -1,2 +1,1 @@
-# causemo
-Text-based Emotion and Cause Pair Identification 
+# Text-based Emotion and Cause Pair Identification (CAUSEMO)
